@@ -12,7 +12,7 @@
 </div> <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyanthelyan&theme=tokyonight&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyanthelyan&layout=compact&theme=tokyonight&height="195")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyanthelyan&layout=compact&theme=tokyonight)
 
 
 
